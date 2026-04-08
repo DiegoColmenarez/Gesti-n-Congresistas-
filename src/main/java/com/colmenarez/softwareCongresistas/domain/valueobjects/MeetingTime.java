@@ -1,4 +1,4 @@
 package com.colmenarez.softwareCongresistas.domain.valueobjects;
 
-public record UserRol() {
+public record MeetingTime() {
 }
