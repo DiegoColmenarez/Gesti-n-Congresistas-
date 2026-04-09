@@ -1,7 +1,6 @@
 package com.colmenarez.softwareCongresistas.domain.exceptions;
 
 public final class InvalidUserPasswordException extends DomainException {
-
     private InvalidUserPasswordException(String message) {
         super(message);
     }
